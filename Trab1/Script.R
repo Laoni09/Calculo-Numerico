@@ -26,4 +26,4 @@ regulaFalsi(f,0.5,1, maxiter = 100)
 newton(f,0.5,tol=0.000000001)
 
 # Secante
-secant(f,1.7,1.8)
+secant(f,0.6,0.7)
