@@ -23,4 +23,4 @@ resultados[i,1]<-a$x[1]
 resultados[i,2]<-a$x[2]
 }
 
-points(resultados[1,1],resultados[1,2],pch=10,col="blue",lwd=6)
+points(resultados[1,1],resultados[1,2],pch=10,col="red",lwd=6)
